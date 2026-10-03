@@ -1,4 +1,4 @@
-# Project-BeatSlash
+# KodEngine
 
 Game engine **KodEngine** and showcase project **BeatSlash**.
 
